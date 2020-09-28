@@ -1,0 +1,1 @@
+class SaraGroup4Constants {}
